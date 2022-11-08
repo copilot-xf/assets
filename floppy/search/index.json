@@ -6,5 +6,12 @@
 "href": "./search/section/capacitacion/floppy_index_capacitacion.html",
 "title": "Capacitacion",
 "section": "Seccion de capacitacion"
+},{
+"id": 0,
+"content": "seccion server servidor",
+"icon": "fas fa-server",
+"href": "./search/section/server/floppy_index_server.html",
+"title": "Server",
+"section": "Almacenamiento en general"
 }
 ]
