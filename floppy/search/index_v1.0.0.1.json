@@ -7,7 +7,7 @@
 "title": "Capacitacion",
 "section": "Seccion de capacitacion"
 },{
-"id": 0,
+"id": 1,
 "content": "seccion server servidor",
 "icon": "fas fa-server",
 "href": "./search/section/server/floppy_index_server.html",
