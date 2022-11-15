@@ -1,0 +1,17 @@
+[
+{
+"id": 0,
+"content": "seccion de la capacitacion",
+"icon": "fas fa-brain",
+"href": "./../../../../../../../../../../assets/index/search/section/capacitacion/floppy_index_capacitacion.html",
+"title": "Capacitacion",
+"section": "Seccion de capacitacion"
+},{
+"id": 1,
+"content": "seccion server servidor",
+"icon": "fas fa-server",
+"href": "./../../../../../../../../../../assets/index/search/section/server/floppy_index_server.html",
+"title": "Server",
+"section": "Almacenamiento en general"
+}
+]
