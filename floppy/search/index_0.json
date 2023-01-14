@@ -13,5 +13,12 @@
 "href": "./search/section/server/floppy_index_server.html",
 "title": "Server",
 "section": "Almacenamiento en general"
+},{
+"id": 2,
+"content": "codigo prefabricado fragmento code index seccion section",
+"icon": "fas fa-code",
+"href": "./search/section/codigo/floppy_index_codigo.html",
+"title": "Codigo",
+"section": "Usos y ejemplos practicos y preconfigurados"
 }
 ]
