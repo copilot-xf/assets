@@ -20,5 +20,12 @@
 "href": "./../../../../../../../assets/index/search/section/codigo/floppy_index_codigo.html",
 "title": "Codigo",
 "section": "Usos y ejemplos practicos y preconfigurados"
+},{
+"id": 3,
+"content": "configuracion floppy documentacion",
+"icon": "fas fa-cogs",
+"href": "./../../../../../../../search/section/configuracion/floppy_index_configuracion.html",
+"title": "Configuracion",
+"section": "configuracion floppy"
 }
 ]
