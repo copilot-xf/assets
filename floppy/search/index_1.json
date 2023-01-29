@@ -24,8 +24,15 @@
 "id": 3,
 "content": "configuracion floppy documentacion",
 "icon": "fas fa-cogs",
-"href": "./../search/section/configuracion/floppy_index_configuracion.html",
+"href": "./../assets/index/search/section/configuracion/floppy_index_configuracion.html",
 "title": "Configuracion",
 "section": "configuracion floppy"
+},{
+"id": 4,
+"content": "libros leer lectura aprendizaje",
+"icon": "fas fa-swatchbook",
+"href": "./../assets/index/search/section/capacitacion/libro/floppy_index_libro.html",
+"title": "Libros",
+"section": "Encuentra libros de todas las categorías para lo que necesitas con rapidez y seguridad."
 }
 ]
