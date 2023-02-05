@@ -8,9 +8,9 @@ v1.0.0.0
 ```
 
 ```
-"id": 0
+id: 0
 "href": "./search/section/capacitacion/floppy_index_capacitacion.html"
 
-"id": 1
+id: 1
 "href": "./search/section/server/floppy_index_server.html"
 ```
