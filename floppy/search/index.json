@@ -13,8 +13,7 @@
 "href": "file:///F:/assets/index/search/section/server/floppy_index_server.html",
 "title": "Server",
 "section": "Almacenamiento en general"
-}
-,{
+},{
 "id": 2,
 "content": "codigo prefabricado fragmento code index seccion section",
 "icon": "fas fa-code",
@@ -28,5 +27,12 @@
 "href": "file:///F:/assets/index/search/section/configuracion/floppy_index_configuracion.html",
 "title": "Configuracion",
 "section": "configuracion floppy"
+},{
+"id": 4,
+"content": "libros leer lectura aprendizaje",
+"icon": "fas fa-swatchbook",
+"href": "file:///F:/assets/index/search/section/capacitacion/libro/floppy_index_libro.html",
+"title": "Libros",
+"section": "Encuentra libros de todas las categorías para lo que necesitas con rapidez y seguridad."
 }
 ]
